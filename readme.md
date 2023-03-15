@@ -8,5 +8,6 @@ Please check out my latest project at https://krukan2-0.vercel.app/ ! Still in p
 
 Currently working on: Creating my portfolio and Krukan 2.0.
 
-🔗https://www.linkedin.com/in/philip-carlsson-b6494a90/
+https://www.linkedin.com/in/philip-carlsson-b6494a90/
+
 🔗philipcarlsson@hotmail.com
