@@ -7,6 +7,7 @@ I'm actively seeking a full-time position as a FE or fullstack developer, where 
 Please check out my latest project at https://krukan2-0.vercel.app/ ! Still in progress but is now used for as my football team's scheduling and RSVP'ing app.
 
 👷 Currently working on: Creating my portfolio and Krukan 2.0
+
 📚 Trying to learn: React testing library, Jest/Vitest, Cypress
 
 https://www.linkedin.com/in/philip-carlsson-b6494a90/
