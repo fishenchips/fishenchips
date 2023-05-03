@@ -6,9 +6,9 @@ I'm actively seeking a full-time position as a FE or fullstack developer, where 
 
 Please check out my latest project at https://krukan2-0.vercel.app/ ! Still in progress but is now used for as my football team's scheduling and RSVP'ing app.
 
-👷 Currently working on: Creating my portfolio and Krukan 2.0
+👷 Currently working on: Improving my portfolio and Krukan 2.0, and a project for Baemingo.
 
-📚 Trying to learn: React testing library, Jest/Vitest, Cypress, and Angular
+📚 Trying to learn: Cypress and Angular
 
 Portfolio is now live at https://portfolio-fishenchips.vercel.app/
 
