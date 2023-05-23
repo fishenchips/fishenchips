@@ -10,8 +10,4 @@ Please check out my latest project at https://krukan2-0.vercel.app/ ! Still in p
 
 📚 Trying to learn: Cypress and Angular
 
-Portfolio is now live at https://portfolio-fishenchips.vercel.app/
-
-https://www.linkedin.com/in/philip-carlsson-b6494a90/
-
 🔗philipcarlsson@hotmail.com
