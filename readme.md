@@ -1,6 +1,6 @@
 Hello and welcome to my GitHub!
 
-I'm currently a FE intern at Stryda, and graduating from Medieinstitutet in may 2023. Over the course my internship I have improved greatly in React, Typescript, and in packages such as Tanstack query, and React Hook Form. Furthermore I have lead daily stand-ups, backlog refinements, retros, and created tickets.
+I'm currently a FE intern at Sharpness, having graduated recently from Medieinstitutet in may 2023. I am setting up the end-to-end tests with Cypress and creating GitHub Actions workflows.
 
 I'm actively seeking a full-time position as a FE or fullstack developer, where I can continue to learn and work with my passion.
 
